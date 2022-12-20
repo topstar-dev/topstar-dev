@@ -51,7 +51,7 @@
 <br>
 <p align=center>
   <div align=center>
-    [![GitHub Game of Life](https://github4life.herokuapp.com/WenjieYin1227.gif?z=6)](https://github4life.herokuapp.com/WenjieYin1227)
+    
 
   |   ![winwin1115's GitHub stats](https://github-readme-stats.vercel.app/api?username=winwin1115&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winwin1115&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
