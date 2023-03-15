@@ -43,7 +43,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align=center>
-  <img alig src="https://github-profile-trophy.vercel.app/?username=winwin1115&theme=nord&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=winwin1115&count_private=true&theme=nord&column=7" />
 </p>
 <hr>
 
@@ -53,7 +53,7 @@
   <div align=center>
     
 
-  |   ![winwin1115's GitHub stats](https://github-readme-stats.vercel.app/api?username=winwin1115&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winwin1115&theme=nightowl)](https://git.io/streak-stats)     |
+  |   ![winwin1115's GitHub stats](https://github-readme-stats.vercel.app/api?username=winwin1115&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winwin1115&theme=nightowl&count_private=true)](https://git.io/streak-stats)     |
  | --- | --- |
   </div>
   <div align=center>
