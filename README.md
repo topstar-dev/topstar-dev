@@ -2,7 +2,9 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h3>
+<hr>
 
+![svg](https://raw.githubusercontent.com/winwin1115/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -62,7 +64,7 @@
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=winwin1115&theme=github-compact&bg_color=20232a&line=24292e&point=24292e&area=true&hide_border=true&&count_private=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=winwin1115&theme=react-dark&bg_color=20232a&hide_border=true&&count_private=true" width="100%"/>
 </p>
 
 <hr>
