@@ -62,8 +62,7 @@
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=winwin1115&theme=react-dark&bg_color=20232a&hide_border=true&&count_private=true" width="100%"/>
-  https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=winwin1115&theme=github-compact&bg_color=fffff0&line=24292e&point=24292e&area=true&hide_border=true&&count_private=true" width="100%"/>
 </p>
 
 <hr>
