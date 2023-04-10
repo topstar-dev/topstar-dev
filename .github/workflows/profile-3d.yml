@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: winwin1115
       - name: Commit & Push
         run: |
