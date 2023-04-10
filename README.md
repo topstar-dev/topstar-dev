@@ -45,11 +45,6 @@
 <p align=center>
   <img alig src="https://github-profile-trophy.vercel.app/?username=winwin1115&count_private=true&theme=nord&column=7" />
 </p>
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
-</p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -68,6 +63,7 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=winwin1115&theme=react-dark&bg_color=20232a&hide_border=true&&count_private=true" width="100%"/>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <hr>
