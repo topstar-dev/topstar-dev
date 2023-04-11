@@ -1,10 +1,7 @@
 <h3 align="center">
-  Hi there
+  Hi there, Nice to meet you!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h3>
-<hr>
-
-![svg](https://raw.githubusercontent.com/winwin1115/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -23,7 +20,6 @@
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
@@ -32,7 +28,6 @@
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
@@ -40,31 +35,24 @@
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
+
 <hr>
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-<p align=center>
-  <img alig src="https://github-profile-trophy.vercel.app/?username=winwin1115&count_private=true&theme=nord&column=7" />
-</p>
-<hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
     
 
-  |   ![winwin1115's GitHub stats](https://github-readme-stats.vercel.app/api?username=winwin1115&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winwin1115&theme=nightowl&count_private=true)](https://git.io/streak-stats)     |
+  |   ![topstar-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=topstar-dev&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=topstar-dev&theme=nightowl&count_private=true)](https://git.io/streak-stats)     |
  | --- | --- |
   </div>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winwin1115&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topstar-dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=winwin1115&theme=react-dark&bg_color=20232a&hide_border=true&&count_private=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=topstar-dev&theme=react-dark&bg_color=20232a&hide_border=true&&count_private=true" width="100%"/>
 </p>
 
 <hr>
