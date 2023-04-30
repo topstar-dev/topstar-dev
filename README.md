@@ -37,25 +37,5 @@
 </p>
 
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    
 
-  |   ![topstar-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=topstar-dev&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=topstar-dev&theme=nightowl&count_private=true)](https://git.io/streak-stats)     |
- | --- | --- |
-  </div>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topstar-dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=topstar-dev&theme=react-dark&bg_color=20232a&hide_border=true&&count_private=true" width="100%"/>
-</p>
-
-<hr>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
