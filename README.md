@@ -7,18 +7,23 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  
+  <code><img title="HTML" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+  <code><img title="TypeScript" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
+  <code><img title="MUI" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Light.svg"></code>
+  <code><img title="TailwindCss" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+ 
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
+ 
+  
+  <code><img title="React" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
