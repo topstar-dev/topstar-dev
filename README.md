@@ -10,10 +10,11 @@
   
   <code><img title="HTML" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+  <code><img title="MUI" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"></code>
+  <code><img title="TailwindCss" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
+  
   <code><img title="Javascript" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
   <code><img title="TypeScript" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
-  <code><img title="MUI" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Light.svg"></code>
-  <code><img title="TailwindCss" height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
